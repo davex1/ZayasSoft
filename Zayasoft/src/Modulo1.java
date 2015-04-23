@@ -18,6 +18,10 @@ public class Modulo1 {
 			i++;
 		}
 		
+		System.out.println("");
+		
+
+		
 	}
 	
 	
