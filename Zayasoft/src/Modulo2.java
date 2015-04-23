@@ -6,7 +6,10 @@ public class Modulo2 {
 	}
 	
 	public void restar(int a, int b){
-		System.out.println("El resultado de la suma es: "+(a-b));
+		System.out.println("El resultado de la resta es: "+(a-b));
 	}
 	
+	public void multiplicar(int a, int b){
+		System.out.println("El resultado de la multiplicacion es: "+(a*b));
+	}
 }
