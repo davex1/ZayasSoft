@@ -12,4 +12,8 @@ public class Modulo2 {
 	public void multiplicar(int a, int b){
 		System.out.println("El resultado de la multiplicacion es: "+(a*b));
 	}
+	
+	public void division(int a, int b){
+		System.out.println("El resultado de la division es: "+(a/b));
+	}
 }
