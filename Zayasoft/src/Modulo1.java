@@ -1,9 +1,8 @@
 import java.util.Scanner;
 
-
 public class Modulo1 {
 
-	public static void main(String[] args) {
+	public  static void ejecutar() {
 		// TODO Auto-generated method stub
 
 		int n;
